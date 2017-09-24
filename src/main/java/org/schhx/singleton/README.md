@@ -120,3 +120,6 @@ public enum Singleton6 {
 
 这种实现方法最简单，自动支持序列化机制，绝对防止多次实例化，不过，由于JDK1.5之后才加入enum特性，只能在JDK1.5之后使用，推荐使用
 
+### 代码
+[示例代码 github](https://github.com/schhx/design-pattern)
+
