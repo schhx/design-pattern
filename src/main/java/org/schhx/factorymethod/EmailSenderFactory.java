@@ -5,6 +5,7 @@ package org.schhx.factorymethod;
  */
 public class EmailSenderFactory implements SenderFactory {
 
+    @Override
     public Sender getSender() {
         return new EmailSender();
     }

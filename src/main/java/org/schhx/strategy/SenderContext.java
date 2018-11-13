@@ -1,7 +1,7 @@
 package org.schhx.strategy;
 
 /**
- * Created by wosai-mac on 2017/9/28.
+ * Created by schhx on 2017/9/28.
  */
 public class SenderContext {
 
