@@ -6,6 +6,7 @@ package org.schhx.strategy;
  */
 public class EmailSender implements Sender {
 
+    @Override
     public void send() {
         System.out.println("send email");
     }

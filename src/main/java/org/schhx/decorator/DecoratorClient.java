@@ -8,7 +8,7 @@ import java.util.UUID;
  * @author shanchao
  * @date 2018-11-13
  */
-public class Client {
+public class DecoratorClient {
 
     public static void main(String[] args) {
         // 基本操作

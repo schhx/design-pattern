@@ -3,7 +3,7 @@ package org.schhx.singleton;
 /**
  * Created by schhx on 2017/9/24.
  */
-public class Client {
+public class SingletonClient {
 
     public static void main(String[] args){
 
